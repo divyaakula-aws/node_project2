@@ -18,7 +18,7 @@ spec:
         app: sharksdemo
     spec:
       containers:
-      - image: akula05/node_project1
+      - image: akula05/project1:3 
         name: sharksdemo
         resources: {}
 status: {}
